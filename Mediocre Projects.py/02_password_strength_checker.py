@@ -12,4 +12,4 @@ for ch in password:
 if len(password)>8 and up and low and num:
     print(f"\"{password}\" is a strong password, it meets all the criterias")
 else:
-    print(f"{password} is a weak passsword, it doesn't meet all the criterias")
+    print(f"\"{password}\" is a weak passsword, it doesn't meet all the criterias")
